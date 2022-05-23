@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Many things
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Nothing as of now
-- 📫 How to reach me ... rahulchintoo555@outlook.com
+- 📫 How to reach me ... rahulchintoo555@gmail.com
 
 <!---
 Rahull242/Rahull242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
